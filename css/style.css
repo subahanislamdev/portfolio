@@ -47,3 +47,16 @@ h2{
     font-weight: 700;
     border-radius: 6%;
 }
+.card-design{
+    box-shadow: -8px 6px 27px 0px rgba(0,0,0,0.75);
+    -webkit-box-shadow: -8px 6px 27px 0px rgba(0,0,0,0.75);
+    -moz-box-shadow: -8px 6px 27px 0px rgba(0,0,0,0.75);
+    border-left: 2px solid tomato;
+    margin-left: 77px;
+    padding-left: 36px;
+    text-align: revert;
+    margin-right: 60px;
+}
+#footer-part{
+    text-align: center;
+}
